@@ -1,0 +1,6 @@
+@EmpManApi_HostAddress = http://localhost:5190
+
+GET {{EmpManApi_HostAddress}}/swagger/
+Accept: application/json
+
+###
